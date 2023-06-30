@@ -13,7 +13,7 @@ We hope to provide a replicable experimental setup for future researchers who ar
 
 ## Checkpoints
 
-In our research, we finetuned PEGASUS-X-BASE on the CORD-19 dataset for the specific task of summarizing COVID-19 research.
+In our research, we finetuned PEGASUS-X-BASE on the [CORD-19 dataset](https://huggingface.co/datasets/allenai/cord19) for the specific task of summarizing COVID-19 research.
 
 Our PEGASUS-X generated checkpoints are publicly available on Hugging Face 🤗:
 
